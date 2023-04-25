@@ -1,0 +1,370 @@
+
+rocket-launch_all.png
+size: 3896,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+astronaut_boarding_arm-left_generic
+  rotate: false
+  xy: 1598, 2
+  size: 181, 119
+  orig: 182, 121
+  offset: 1, 2
+  index: -1
+astronaut_boarding_arm-left_player
+  rotate: true
+  xy: 3691, 312
+  size: 162, 104
+  orig: 162, 105
+  offset: 0, 0
+  index: -1
+astronaut_boarding_arm-right_generic
+  rotate: false
+  xy: 3543, 145
+  size: 131, 147
+  orig: 133, 147
+  offset: 0, 0
+  index: -1
+astronaut_boarding_arm-right_player
+  rotate: true
+  xy: 3359, 51
+  size: 85, 190
+  orig: 87, 191
+  offset: 1, 1
+  index: -1
+astronaut_boarding_body_generic
+  rotate: true
+  xy: 1713, 123
+  size: 254, 388
+  orig: 307, 472
+  offset: 0, 84
+  index: -1
+astronaut_boarding_body_player
+  rotate: false
+  xy: 2628, 515
+  size: 276, 387
+  orig: 295, 463
+  offset: 0, 76
+  index: -1
+astronaut_boarding_feet_generic
+  rotate: true
+  xy: 3858, 662
+  size: 245, 36
+  orig: 249, 40
+  offset: 1, 1
+  index: -1
+astronaut_boarding_feet_player
+  rotate: false
+  xy: 1781, 2
+  size: 205, 38
+  orig: 205, 41
+  offset: 0, 0
+  index: -1
+astronaut_boarding_legs_generic
+  rotate: false
+  xy: 3580, 909
+  size: 300, 137
+  orig: 300, 145
+  offset: 0, 7
+  index: -1
+astronaut_boarding_legs_player
+  rotate: false
+  xy: 2314, 43
+  size: 263, 139
+  orig: 264, 143
+  offset: 0, 4
+  index: -1
+bet_back-panel
+  rotate: false
+  xy: 2906, 655
+  size: 352, 247
+  orig: 352, 247
+  offset: 0, 0
+  index: -1
+bet_glow
+  rotate: false
+  xy: 1505, 124
+  size: 94, 50
+  orig: 100, 50
+  offset: 4, 0
+  index: -1
+blast_stream
+  rotate: false
+  xy: 2577, 331
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+boost_2
+  rotate: false
+  xy: 2103, 93
+  size: 209, 284
+  orig: 209, 299
+  offset: 0, 15
+  index: -1
+boost_light
+  rotate: true
+  xy: 2886, 270
+  size: 221, 247
+  orig: 245, 268
+  offset: 12, 11
+  index: -1
+button_auto
+  rotate: true
+  xy: 3610, 294
+  size: 172, 79
+  orig: 182, 89
+  offset: 5, 5
+  index: -1
+button_auto_rollover
+  rotate: true
+  xy: 3797, 302
+  size: 172, 79
+  orig: 182, 89
+  offset: 5, 5
+  index: -1
+button_bet
+  rotate: false
+  xy: 2082, 12
+  size: 172, 79
+  orig: 182, 89
+  offset: 5, 5
+  index: -1
+button_bet-max_glow
+  rotate: true
+  xy: 2996, 35
+  size: 233, 217
+  orig: 241, 226
+  offset: 4, 5
+  index: -1
+button_bet_rollover
+  rotate: false
+  xy: 3718, 54
+  size: 172, 79
+  orig: 182, 89
+  offset: 5, 5
+  index: -1
+button_cancel
+  rotate: true
+  xy: 3680, 476
+  size: 94, 165
+  orig: 104, 175
+  offset: 5, 5
+  index: -1
+button_cancel_active_rollover
+  rotate: true
+  xy: 3551, 49
+  size: 94, 165
+  orig: 104, 175
+  offset: 5, 5
+  index: -1
+button_cancel_inactive
+  rotate: false
+  xy: 3691, 145
+  size: 94, 165
+  orig: 104, 175
+  offset: 5, 5
+  index: -1
+button_cancel_inactive_rollover
+  rotate: false
+  xy: 3787, 135
+  size: 94, 165
+  orig: 104, 175
+  offset: 5, 5
+  index: -1
+button_collect
+  rotate: true
+  xy: 2579, 2
+  size: 279, 167
+  orig: 289, 177
+  offset: 5, 5
+  index: -1
+button_collect_rollover
+  rotate: false
+  xy: 3329, 294
+  size: 279, 167
+  orig: 289, 177
+  offset: 5, 5
+  index: -1
+button_re-bet
+  rotate: false
+  xy: 2, 2
+  size: 796, 82
+  orig: 800, 86
+  offset: 2, 2
+  index: -1
+button_re-bet_back-panel
+  rotate: false
+  xy: 2314, 184
+  size: 261, 247
+  orig: 261, 247
+  offset: 0, 0
+  index: -1
+button_re-bet_rollover
+  rotate: false
+  xy: 800, 2
+  size: 796, 82
+  orig: 800, 86
+  offset: 2, 2
+  index: -1
+conveyor
+  rotate: false
+  xy: 1713, 925
+  size: 1070, 121
+  orig: 1075, 121
+  offset: 3, 0
+  index: -1
+conveyor_track
+  rotate: true
+  xy: 1204, 86
+  size: 7, 31
+  orig: 7, 31
+  offset: 0, 0
+  index: -1
+crash-rocket_logo
+  rotate: false
+  xy: 1713, 379
+  size: 593, 544
+  orig: 600, 600
+  offset: 0, 27
+  index: -1
+launch_background_v3_small
+  rotate: false
+  xy: 2, 86
+  size: 1200, 960
+  orig: 1200, 960
+  offset: 0, 0
+  index: -1
+mini-spaceman
+  rotate: false
+  xy: 3553, 468
+  size: 125, 133
+  orig: 140, 140
+  offset: 9, 2
+  index: -1
+mini-spaceman_boarding
+  rotate: true
+  xy: 3215, 8
+  size: 55, 93
+  orig: 60, 100
+  offset: 2, 4
+  index: -1
+panel_auto
+  rotate: false
+  xy: 1204, 95
+  size: 299, 79
+  orig: 308, 87
+  offset: 5, 4
+  index: -1
+panel_auto_rollover
+  rotate: true
+  xy: 3553, 603
+  size: 299, 78
+  orig: 308, 87
+  offset: 5, 4
+  index: -1
+panel_bet
+  rotate: false
+  xy: 1781, 42
+  size: 299, 79
+  orig: 308, 87
+  offset: 5, 4
+  index: -1
+panel_bet_rollover
+  rotate: true
+  xy: 3633, 608
+  size: 299, 79
+  orig: 308, 87
+  offset: 5, 4
+  index: -1
+rocket
+  rotate: false
+  xy: 1204, 176
+  size: 507, 870
+  orig: 519, 900
+  offset: 7, 10
+  index: -1
+rocket _icon_trail
+  rotate: false
+  xy: 2785, 904
+  size: 793, 142
+  orig: 798, 200
+  offset: 0, 29
+  index: -1
+rocket_blastoff
+  rotate: false
+  xy: 2748, 22
+  size: 246, 246
+  orig: 256, 256
+  offset: 5, 5
+  index: -1
+rocket_boost
+  rotate: true
+  xy: 2906, 493
+  size: 160, 348
+  orig: 160, 370
+  offset: 0, 22
+  index: -1
+rocket_door
+  rotate: true
+  xy: 3215, 65
+  size: 203, 142
+  orig: 210, 150
+  offset: 3, 4
+  index: -1
+rocket_icon
+  rotate: false
+  xy: 3256, 463
+  size: 295, 190
+  orig: 308, 200
+  offset: 6, 5
+  index: -1
+rocket_icon_trail_pulse
+  rotate: true
+  xy: 3714, 697
+  size: 210, 142
+  orig: 215, 200
+  offset: 0, 29
+  index: -1
+rocket_interior
+  rotate: false
+  xy: 3135, 270
+  size: 192, 191
+  orig: 192, 191
+  offset: 0, 0
+  index: -1
+rocket_smoke_01
+  rotate: false
+  xy: 3359, 138
+  size: 182, 154
+  orig: 182, 154
+  offset: 0, 0
+  index: -1
+rocket_smoke_02
+  rotate: true
+  xy: 3714, 572
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1
+rocket_smoke_03
+  rotate: true
+  xy: 2308, 433
+  size: 490, 318
+  orig: 490, 318
+  offset: 0, 0
+  index: -1
+rocket_smoke_04
+  rotate: true
+  xy: 3260, 655
+  size: 247, 291
+  orig: 247, 291
+  offset: 0, 0
+  index: -1
+spaceman_group
+  rotate: true
+  xy: 2628, 283
+  size: 230, 256
+  orig: 233, 257
+  offset: 3, 0
+  index: -1

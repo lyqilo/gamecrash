@@ -1,0 +1,160 @@
+
+podium_all.png
+size: 1248,2064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rocketeers_logo_animated-assets/astronaut main
+  rotate: false
+  xy: 316, 33
+  size: 326, 333
+  orig: 326, 355
+  offset: 0, 22
+  index: -1
+Rocketeers_logo_animated-assets/astronaut tether
+  rotate: true
+  xy: 2, 10
+  size: 356, 312
+  orig: 414, 335
+  offset: 54, 15
+  index: -1
+Rocketeers_logo_animated-assets/jumper
+  rotate: true
+  xy: 1116, 145
+  size: 106, 117
+  orig: 108, 118
+  offset: 1, 1
+  index: -1
+Rocketeers_logo_animated-assets/logo backplate
+  rotate: true
+  xy: 2, 1272
+  size: 787, 829
+  orig: 791, 831
+  offset: 2, 1
+  index: -1
+Rocketeers_logo_animated-assets/main logo
+  rotate: true
+  xy: 833, 1283
+  size: 776, 404
+  orig: 862, 404
+  offset: 83, 0
+  index: -1
+Rocketeers_logo_animated-assets/rocket boost
+  rotate: true
+  xy: 737, 105
+  size: 241, 172
+  orig: 243, 176
+  offset: 0, 3
+  index: -1
+Rocketeers_logo_animated-assets/shine
+  rotate: true
+  xy: 554, 378
+  size: 95, 83
+  orig: 97, 99
+  offset: 0, 9
+  index: -1
+Rocketeers_logo_animated-assets/swoosh
+  rotate: false
+  xy: 316, 2
+  size: 90, 29
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+altitude_counter_back
+  rotate: true
+  xy: 644, 58
+  size: 288, 91
+  orig: 381, 123
+  offset: 47, 30
+  index: -1
+astronaut_arm-left
+  rotate: false
+  xy: 911, 168
+  size: 203, 134
+  orig: 220, 140
+  offset: 17, 0
+  index: -1
+astronaut_arm-left_player
+  rotate: false
+  xy: 911, 304
+  size: 204, 117
+  orig: 220, 160
+  offset: 16, 33
+  index: -1
+astronaut_arm-right
+  rotate: true
+  xy: 644, 348
+  size: 125, 174
+  orig: 130, 180
+  offset: 5, 0
+  index: -1
+astronaut_arm-right_player
+  rotate: false
+  xy: 1117, 253
+  size: 123, 168
+  orig: 130, 170
+  offset: 7, 0
+  index: -1
+astronaut_body
+  rotate: true
+  xy: 2, 820
+  size: 450, 550
+  orig: 450, 550
+  offset: 0, 0
+  index: -1
+astronaut_body_player
+  rotate: true
+  xy: 2, 368
+  size: 450, 550
+  orig: 450, 550
+  offset: 0, 0
+  index: -1
+award_bronze
+  rotate: true
+  xy: 554, 738
+  size: 263, 272
+  orig: 300, 300
+  offset: 18, 15
+  index: -1
+award_gold
+  rotate: true
+  xy: 554, 475
+  size: 261, 272
+  orig: 300, 300
+  offset: 20, 16
+  index: -1
+award_silver
+  rotate: true
+  xy: 554, 1003
+  size: 267, 275
+  orig: 300, 300
+  offset: 16, 15
+  index: -1
+name_backplate
+  rotate: true
+  xy: 1211, 736
+  size: 175, 34
+  orig: 187, 44
+  offset: 6, 5
+  index: -1
+parachute
+  rotate: false
+  xy: 833, 913
+  size: 390, 368
+  orig: 390, 368
+  offset: 0, 0
+  index: -1
+podium_jet
+  rotate: true
+  xy: 911, 60
+  size: 106, 194
+  orig: 107, 194
+  offset: 0, 0
+  index: -1
+podium_platform
+  rotate: true
+  xy: 828, 423
+  size: 488, 381
+  orig: 504, 395
+  offset: 8, 6
+  index: -1

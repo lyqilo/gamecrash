@@ -1,0 +1,188 @@
+
+rocket-crash_all.png
+size: 1624,2092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-dead_left
+  rotate: true
+  xy: 1463, 1264
+  size: 221, 151
+  orig: 221, 152
+  offset: 0, 1
+  index: -1
+arm-dead_right
+  rotate: false
+  xy: 960, 458
+  size: 107, 191
+  orig: 107, 192
+  offset: 0, 1
+  index: -1
+blast_off
+  rotate: true
+  xy: 1463, 1487
+  size: 188, 156
+  orig: 220, 220
+  offset: 16, 31
+  index: -1
+blast_radial
+  rotate: false
+  xy: 1264, 380
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+boost_2
+  rotate: false
+  xy: 1053, 172
+  size: 209, 284
+  orig: 209, 299
+  offset: 0, 15
+  index: -1
+boost_light
+  rotate: false
+  xy: 1069, 467
+  size: 221, 247
+  orig: 245, 268
+  offset: 12, 11
+  index: -1
+cloud
+  rotate: true
+  xy: 1439, 651
+  size: 367, 178
+  orig: 372, 238
+  offset: 5, 54
+  index: -1
+earth
+  rotate: false
+  xy: 2, 456
+  size: 956, 672
+  orig: 1000, 710
+  offset: 0, 0
+  index: -1
+explosion_01
+  rotate: true
+  xy: 964, 716
+  size: 471, 473
+  orig: 484, 487
+  offset: 6, 7
+  index: -1
+meteor
+  rotate: false
+  xy: 1360, 366
+  size: 239, 213
+  orig: 239, 213
+  offset: 0, 0
+  index: -1
+meteor_flame
+  rotate: false
+  xy: 964, 1677
+  size: 573, 413
+  orig: 580, 418
+  offset: 0, 0
+  index: -1
+meteor_glow
+  rotate: false
+  xy: 1360, 151
+  size: 239, 213
+  orig: 239, 213
+  offset: 0, 0
+  index: -1
+meteor_trail
+  rotate: true
+  xy: 1539, 1964
+  size: 126, 82
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+meteor_trail2
+  rotate: false
+  xy: 891, 4
+  size: 164, 100
+  orig: 164, 100
+  offset: 0, 0
+  index: -1
+mini-spaceman
+  rotate: false
+  xy: 1360, 16
+  size: 125, 133
+  orig: 140, 140
+  offset: 9, 2
+  index: -1
+mini-spaceman-generic
+  rotate: true
+  xy: 1292, 581
+  size: 133, 137
+  orig: 140, 140
+  offset: 5, 1
+  index: -1
+moon
+  rotate: false
+  xy: 516, 81
+  size: 373, 373
+  orig: 388, 388
+  offset: 7, 9
+  index: -1
+rocket2
+  rotate: false
+  xy: 2, 16
+  size: 255, 438
+  orig: 260, 450
+  offset: 3, 5
+  index: -1
+rocket_bit_1
+  rotate: false
+  xy: 1224, 2
+  size: 134, 168
+  orig: 137, 173
+  offset: 3, 0
+  index: -1
+rocket_bit_2
+  rotate: true
+  xy: 1439, 1020
+  size: 93, 180
+  orig: 93, 180
+  offset: 0, 0
+  index: -1
+rocket_bit_3
+  rotate: false
+  xy: 1057, 2
+  size: 165, 168
+  orig: 169, 178
+  offset: 1, 1
+  index: -1
+rocket_boost
+  rotate: false
+  xy: 891, 106
+  size: 160, 348
+  orig: 160, 370
+  offset: 0, 22
+  index: -1
+rocket_small
+  rotate: false
+  xy: 259, 19
+  size: 255, 435
+  orig: 260, 450
+  offset: 3, 5
+  index: -1
+spaceman
+  rotate: true
+  xy: 964, 1189
+  size: 486, 497
+  orig: 486, 499
+  offset: 0, 1
+  index: -1
+star-sky_back_small_square
+  rotate: false
+  xy: 2, 1130
+  size: 960, 960
+  orig: 960, 960
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 1463, 1115
+  size: 147, 147
+  orig: 163, 162
+  offset: 8, 8
+  index: -1
