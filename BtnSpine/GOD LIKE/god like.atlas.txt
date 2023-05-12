@@ -1,0 +1,20 @@
+
+god like.png
+size: 489,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GODLIKE
+  rotate: false
+  xy: 2, 2
+  size: 264, 42
+  orig: 264, 42
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 46
+  size: 485, 115
+  orig: 495, 115
+  offset: 3, 0
+  index: -1

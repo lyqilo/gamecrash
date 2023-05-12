@@ -1,0 +1,34 @@
+
+anniudonghua.png
+size: 362,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_guang
+  rotate: false
+  xy: 2, 26
+  size: 166, 168
+  orig: 180, 182
+  offset: 7, 7
+  index: -1
+kuang
+  rotate: false
+  xy: 170, 98
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+miaobian
+  rotate: false
+  xy: 266, 98
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 170, 2
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
