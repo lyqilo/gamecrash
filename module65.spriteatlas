@@ -20,23 +20,161 @@ SpriteAtlas:
       readable: 0
       crunchedCompression: 0
       sRGB: 1
-    platformSettings: []
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 33
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     packingSettings:
       serializedVersion: 2
       padding: 4
       blockOffset: 1
       allowAlphaSplitting: 0
-      enableRotation: 1
-      enableTightPacking: 1
+      enableRotation: 0
+      enableTightPacking: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
-    packables: []
+    packables:
+    - {fileID: 102900000, guid: 0fb6fdc06e16c2f46a6da71200489c90, type: 3}
+    - {fileID: 102900000, guid: af3640489174a8646ba51d1a5057ff49, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites: []
-  m_PackedSpriteNamesToIndex: []
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0baf5810aaf70cc4d87c8162c5701acd, type: 3}
+  - {fileID: 21300000, guid: 0b5a4d50f1169bb4c85397ce4b15d60b, type: 3}
+  - {fileID: 21300000, guid: 23e143516de1bd44e808c5785b3bf3e8, type: 3}
+  - {fileID: 21300000, guid: 46afcd611c33f914195481d18205476c, type: 3}
+  - {fileID: 21300000, guid: aad18e71c1b9b394989f193ec7573c9d, type: 3}
+  - {fileID: 21300000, guid: bd35568108f007f4ba034fd1621de452, type: 3}
+  - {fileID: 21300000, guid: 518f08b176612c64eb8c7b7982331573, type: 3}
+  - {fileID: 21300000, guid: 3a68c2d1b0a4b2741994a476c77c6f8f, type: 3}
+  - {fileID: 21300000, guid: ae7118f16882c2b4aaaa00a0b24d7fec, type: 3}
+  - {fileID: 21300000, guid: 501f87a2ce785584ab0042c4ec4e8337, type: 3}
+  - {fileID: 21300000, guid: 87bf59134cbb66c418943d0519cffac5, type: 3}
+  - {fileID: 21300000, guid: 6efe8543ec97622489987d8269575151, type: 3}
+  - {fileID: 21300000, guid: fe21cee3a2204454c991249baa0336e2, type: 3}
+  - {fileID: 21300000, guid: 1998e034ec2ad3345b76f229ffe3b197, type: 3}
+  - {fileID: 21300000, guid: b3b85464648ef8a409077499ce85d346, type: 3}
+  - {fileID: 21300000, guid: 60c5c4644a81936438ba572bace5fbf8, type: 3}
+  - {fileID: 21300000, guid: f3d1379476bb2a24f9d981985f2bac96, type: 3}
+  - {fileID: 21300000, guid: b8d86d55f21f5d441a541dd83af94d25, type: 3}
+  - {fileID: 21300000, guid: 2996c365e71a25f4288504fa59374dcc, type: 3}
+  - {fileID: 21300000, guid: f399d036d900b9e40a4f1effcb8c342b, type: 3}
+  - {fileID: 21300000, guid: 452773476e8fa524e98ece67bec63e41, type: 3}
+  - {fileID: 21300000, guid: 2a427a67726ea2e4199967880d0b9aa6, type: 3}
+  - {fileID: 21300000, guid: b50f868775f29db4183fc3ec3cd198d7, type: 3}
+  - {fileID: 21300000, guid: fa2678e7a92e64c419f0f7289efefe85, type: 3}
+  - {fileID: 21300000, guid: 4234d338a39f21445be65a0a538f1011, type: 3}
+  - {fileID: 21300000, guid: 9f1cbb0995de6a3408c2a746378e7124, type: 3}
+  - {fileID: 21300000, guid: 05175ea977d043a41a355f47c46a9acc, type: 3}
+  - {fileID: 21300000, guid: 5e84fe8ac3db1424fa21c40fe1fd3dc6, type: 3}
+  - {fileID: 21300000, guid: 2f0c2b9a0a5744641ae1b73af90934e0, type: 3}
+  - {fileID: 21300000, guid: 6ce7adfa303a2fa4ab792aa351f717e1, type: 3}
+  - {fileID: 21300000, guid: 796e927bb4d1b2c4394b4fec320fa01c, type: 3}
+  - {fileID: 21300000, guid: ce8a4eabe82277440ba267b036640ab3, type: 3}
+  - {fileID: 21300000, guid: ab21683ca37f7bb4d89d100fbe9b721b, type: 3}
+  - {fileID: 21300000, guid: a0e7859caab3e8247a2234a07ac9b46d, type: 3}
+  - {fileID: 21300000, guid: ffda34cce5eb6434cb373d4ee5cafe28, type: 3}
+  - {fileID: 21300000, guid: fe0ad00d8b45baa4580314f8c31a0ca7, type: 3}
+  - {fileID: 21300000, guid: ba31de1d43840ea45ba9b0afa98775d4, type: 3}
+  - {fileID: 21300000, guid: 9251805de86e1b84a9cd34d7d4985123, type: 3}
+  - {fileID: 21300000, guid: b8dfc57df8eff8e46be89cf3ecb669c5, type: 3}
+  - {fileID: 21300000, guid: d2204fcd8d711a24dbb309599173822a, type: 3}
+  - {fileID: 21300000, guid: b527f4fd208bf51418b3df805b5009f5, type: 3}
+  - {fileID: 21300000, guid: 7426b05ed9d87404889d75ce3fd2502a, type: 3}
+  - {fileID: 21300000, guid: f3b8703fa249f974eb252cefee034c07, type: 3}
+  - {fileID: 21300000, guid: eb0fc5cf41b3fbc48a2cd6b3eb87eadd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - crash_2
+  - crash_20
+  - crash_14
+  - rulesbg
+  - crash_31
+  - crash_21
+  - crash_24
+  - crash_16
+  - crash_26
+  - crash_10
+  - crash_6
+  - crash_17
+  - crash_13
+  - crash_3
+  - crash_29
+  - crash_9
+  - crash_7
+  - line
+  - how
+  - crash_8
+  - crash_12
+  - arrow_left
+  - crash_22
+  - linepoint
+  - crash_27
+  - crash_32
+  - 70188b883f397e41b9b59c12ac4dad64
+  - crash_18
+  - crash_30
+  - crash_5
+  - crash_11
+  - crash_4
+  - ui-frame-help
+  - crash_33
+  - crash_28
+  - play_button_back
+  - crash_1
+  - crash_25
+  - crash_23
+  - slide-panel
+  - footer
+  - crash_19
+  - crash_15
+  - about
   m_RenderDataMap: {}
   m_Tag: module65
   m_IsVariant: 0
