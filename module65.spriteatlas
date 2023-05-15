@@ -100,6 +100,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 6efe8543ec97622489987d8269575151, type: 3}
   - {fileID: 21300000, guid: fe21cee3a2204454c991249baa0336e2, type: 3}
   - {fileID: 21300000, guid: 1998e034ec2ad3345b76f229ffe3b197, type: 3}
+  - {fileID: 21300000, guid: ce3d8b54e4ebe124fabf3a88e9da8bf1, type: 3}
   - {fileID: 21300000, guid: b3b85464648ef8a409077499ce85d346, type: 3}
   - {fileID: 21300000, guid: 60c5c4644a81936438ba572bace5fbf8, type: 3}
   - {fileID: 21300000, guid: f3d1379476bb2a24f9d981985f2bac96, type: 3}
@@ -112,7 +113,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: fa2678e7a92e64c419f0f7289efefe85, type: 3}
   - {fileID: 21300000, guid: 4234d338a39f21445be65a0a538f1011, type: 3}
   - {fileID: 21300000, guid: 9f1cbb0995de6a3408c2a746378e7124, type: 3}
-  - {fileID: 21300000, guid: 05175ea977d043a41a355f47c46a9acc, type: 3}
   - {fileID: 21300000, guid: 5e84fe8ac3db1424fa21c40fe1fd3dc6, type: 3}
   - {fileID: 21300000, guid: 2f0c2b9a0a5744641ae1b73af90934e0, type: 3}
   - {fileID: 21300000, guid: 6ce7adfa303a2fa4ab792aa351f717e1, type: 3}
@@ -145,6 +145,7 @@ SpriteAtlas:
   - crash_17
   - crash_13
   - crash_3
+  - crash_34
   - crash_29
   - crash_9
   - crash_7
@@ -157,7 +158,6 @@ SpriteAtlas:
   - linepoint
   - crash_27
   - crash_32
-  - 70188b883f397e41b9b59c12ac4dad64
   - crash_18
   - crash_30
   - crash_5
