@@ -154,11 +154,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 21
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -2017.345}
+  m_AnchoredPosition: {x: 578, y: -1585.345}
   m_SizeDelta: {x: 1190, y: 67.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &821742
@@ -185,7 +185,7 @@ MonoBehaviour:
     to payout is 10000x."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -700,157 +700,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 25098055}
   m_CullTransparentMesh: 1
---- !u!1 &39246242
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 39246243}
-  - component: {fileID: 39246245}
-  - component: {fileID: 39246244}
-  - component: {fileID: 39246246}
-  m_Layer: 5
-  m_Name: Text (TMP) (13)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &39246243
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 39246242}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1520156886}
-  m_RootOrder: 13
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1143.9148}
-  m_SizeDelta: {x: 1190, y: 67.59}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &39246244
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 39246242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: "\xB7 lf the rocket-explodes and the bet is unclaimed it will not be returned."
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
-    type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4293517230
-  m_fontColor: {r: 0.68235296, g: 0.8745099, b: 0.91372555, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &39246245
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 39246242}
-  m_CullTransparentMesh: 1
---- !u!114 &39246246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 39246242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 365057
-  FallbackText: "\xB7 lf the rocket-explodes and the bet is unclaimed it will not
-    be returned."
 --- !u!1 &61561064
 GameObject:
   m_ObjectHideFlags: 0
@@ -4856,11 +4705,11 @@ RectTransform:
   m_Children:
   - {fileID: 466184234}
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 24
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -2436.3198}
+  m_AnchoredPosition: {x: 578, y: -2004.3198}
   m_SizeDelta: {x: 1190, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &246939971
@@ -5034,11 +4883,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 18
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1807}
+  m_AnchoredPosition: {x: 578, y: -1375}
   m_SizeDelta: {x: 1190, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &256139801
@@ -5084,7 +4933,7 @@ MonoBehaviour:
   m_text: ABOUT PAYOUTS
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5404,7 +5253,7 @@ MonoBehaviour:
   m_text: HOW TO PLAY
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6458,158 +6307,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 319271903}
   m_CullTransparentMesh: 1
---- !u!1 &347822116
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 347822117}
-  - component: {fileID: 347822119}
-  - component: {fileID: 347822118}
-  - component: {fileID: 347822120}
-  m_Layer: 5
-  m_Name: Text (TMP) (11)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &347822117
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347822116}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1520156886}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1008.7348}
-  m_SizeDelta: {x: 1190, y: 67.59}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &347822118
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347822116}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: "\xB7 An auto COLLECT value will be cancelled when the COLLECT button is
-    clicked during flight."
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
-    type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4293517230
-  m_fontColor: {r: 0.68235296, g: 0.8745099, b: 0.91372555, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 30
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &347822119
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347822116}
-  m_CullTransparentMesh: 1
---- !u!114 &347822120
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347822116}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 365055
-  FallbackText: "\xB7 An auto COLLECT value will be cancelled when the COLLECT button
-    is clicked during flight."
 --- !u!1 &349234130
 GameObject:
   m_ObjectHideFlags: 0
@@ -6732,11 +6429,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 22
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -2084.9348}
+  m_AnchoredPosition: {x: 578, y: -1652.9348}
   m_SizeDelta: {x: 1190, y: 67.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &354783843
@@ -6763,7 +6460,7 @@ MonoBehaviour:
     will be awarded."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -6788,7 +6485,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -7632,158 +7329,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 437141568}
   m_Mesh: {fileID: 0}
---- !u!1 &443084125
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 443084126}
-  - component: {fileID: 443084129}
-  - component: {fileID: 443084128}
-  - component: {fileID: 443084127}
-  m_Layer: 5
-  m_Name: Text (TMP) (22)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &443084126
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443084125}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1520156886}
-  m_RootOrder: 16
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1417.4}
-  m_SizeDelta: {x: 1190, y: 114.728}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &443084127
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443084125}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 365064
-  FallbackText: "\xB7 A history of the last twenty multiplier values reached by the
-    rocket are shown in the top left ofthe screen."
---- !u!114 &443084128
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443084125}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: "\xB7 A history of the last twenty multiplier values reached by the rocket
-    are shown in the top left ofthe screen."
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
-    type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4293517230
-  m_fontColor: {r: 0.68235296, g: 0.8745099, b: 0.91372555, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 30
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &443084129
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443084125}
-  m_CullTransparentMesh: 1
 --- !u!1 &449048555
 GameObject:
   m_ObjectHideFlags: 0
@@ -9676,11 +9221,11 @@ RectTransform:
   m_Children:
   - {fileID: 1455521224}
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 17
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1602}
+  m_AnchoredPosition: {x: 578, y: -1170}
   m_SizeDelta: {x: 1190, y: 260}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &522470077
@@ -11344,8 +10889,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -99.39667}
-  m_SizeDelta: {x: 1190, y: 138.79333}
+  m_AnchoredPosition: {x: 595, y: -98.19833}
+  m_SizeDelta: {x: 1190, y: 136.39667}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &666648020
 MonoBehaviour:
@@ -11384,7 +10929,7 @@ MonoBehaviour:
   m_text: Super fast, real-time, multiplayer, interactive decision based gaming!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ec6a6841cde9b4e4f8d9362dbf3be9de, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: -6001197064409830115, guid: ec6a6841cde9b4e4f8d9362dbf3be9de,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -12285,11 +11830,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 20
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1966.5698}
+  m_AnchoredPosition: {x: 578, y: -1534.5698}
   m_SizeDelta: {x: 1190, y: 33.96}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &727338670
@@ -12315,7 +11860,7 @@ MonoBehaviour:
   m_text: "\xB7 The winning amount of the bet is the MULTIPUER * the BET amount."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -13013,7 +12558,7 @@ MonoBehaviour:
     be automatically ejected."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -13038,7 +12583,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -13077,7 +12622,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &749885491
@@ -14849,7 +14394,7 @@ MonoBehaviour:
   m_text: "\xB7 Press PLAY on the info screen to enter the moin game."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -14913,7 +14458,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &871051732
@@ -15071,11 +14616,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xB7 If an AUT0 COLLECT is set, the BET amount will default to the lowest
-    BET amount until changed."
+  m_text: "\u5728\u98DE\u884C\u8FC7\u7A0B\u4E2D\u70B9\u51FBCOLLECT\u6309\u94AE\u5C06\u7ED3\u675F\u98DE\u884C\u4E2D\u7684\u8D4C\u6CE8\uFF0C\u5E76\u8FD4\u56DE\u663E\u793A\u7684\u8D62\u94B1\u91D1\u989D\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -15139,7 +14683,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &875806059
@@ -15872,7 +15416,7 @@ MonoBehaviour:
     it explodes.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -15897,7 +15441,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 26.9
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -15936,7 +15480,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &933648499
@@ -16955,8 +16499,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -221.37}
-  m_SizeDelta: {x: 1190, y: 105.15333}
+  m_AnchoredPosition: {x: 595, y: -214.795}
+  m_SizeDelta: {x: 1190, y: 96.79667}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &995491697
 GameObject:
@@ -18260,7 +17804,7 @@ MonoBehaviour:
     a maximum."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -18285,7 +17829,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 28.45
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -18324,7 +17868,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1086516141
@@ -18681,7 +18225,7 @@ MonoBehaviour:
     then plays the round and if"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -18706,7 +18250,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -18745,7 +18289,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1107354044
@@ -19049,158 +18593,6 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115732774}
-  m_CullTransparentMesh: 1
---- !u!1 &1131169665
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1131169666}
-  - component: {fileID: 1131169669}
-  - component: {fileID: 1131169668}
-  - component: {fileID: 1131169667}
-  m_Layer: 5
-  m_Name: Text (TMP) (21)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1131169666
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131169665}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1520156886}
-  m_RootOrder: 15
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1302.6692}
-  m_SizeDelta: {x: 1190, y: 114.728}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1131169667
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131169665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 365063
-  FallbackText: "\xB7 A history of the last twenty multiplier values reached by the
-    rocket are shown in the top left ofthe screen."
---- !u!114 &1131169668
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131169665}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: "\xB7 A history of the last twenty multiplier values reached by the rocket
-    are shown in the top left ofthe screen."
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
-    type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4293517230
-  m_fontColor: {r: 0.68235296, g: 0.8745099, b: 0.91372555, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 30
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1131169669
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131169665}
   m_CullTransparentMesh: 1
 --- !u!1 &1146944896
 GameObject:
@@ -20480,8 +19872,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000045776367}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -0}
+  m_SizeDelta: {x: 1343.079, y: 2293.564}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1222433663
 MonoBehaviour:
@@ -21051,7 +20443,7 @@ MonoBehaviour:
     crash out in a ball of flames! Choose when to jump off
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ec6a6841cde9b4e4f8d9362dbf3be9de, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: -6001197064409830115, guid: ec6a6841cde9b4e4f8d9362dbf3be9de,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -21495,158 +20887,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 105.068}
   m_SizeDelta: {x: 650, y: 35.865}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &1275679617
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1275679618}
-  - component: {fileID: 1275679620}
-  - component: {fileID: 1275679619}
-  - component: {fileID: 1275679621}
-  m_Layer: 5
-  m_Name: Text (TMP) (12)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1275679618
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1275679617}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1520156886}
-  m_RootOrder: 12
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1076.3248}
-  m_SizeDelta: {x: 1190, y: 67.59}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1275679619
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1275679617}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: "\xB7 lf an COLLECT happens ot the same time the rocket explodes, the win
-    amount will be awarded."
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
-    type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4293517230
-  m_fontColor: {r: 0.68235296, g: 0.8745099, b: 0.91372555, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 30
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1275679620
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1275679617}
-  m_CullTransparentMesh: 1
---- !u!114 &1275679621
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1275679617}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 365056
-  FallbackText: "\xB7 lf an COLLECT happens ot the same time the rocket explodes,
-    the win amount will be awarded."
 --- !u!1 &1284350589
 GameObject:
   m_ObjectHideFlags: 0
@@ -22369,11 +21609,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 19
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1915.7949}
+  m_AnchoredPosition: {x: 578, y: -1483.7949}
   m_SizeDelta: {x: 1190, y: 67.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1333668143
@@ -22400,7 +21640,7 @@ MonoBehaviour:
     time the BET is collected."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -22425,7 +21665,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -24168,7 +23408,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -240}
+  m_AnchoredPosition: {x: 633.2698, y: -240}
   m_SizeDelta: {x: 1190, y: 480}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1427686766
@@ -24548,8 +23788,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -376.97333}
-  m_SizeDelta: {x: 1190, y: 206.05333}
+  m_AnchoredPosition: {x: 595, y: -371.59668}
+  m_SizeDelta: {x: 1190, y: 216.80667}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1462055882
 MonoBehaviour:
@@ -24590,7 +23830,7 @@ MonoBehaviour:
     astronauts nerves\nand stay onboard for as long as possible for maximum rewards!\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -24855,7 +24095,8 @@ MonoBehaviour:
   m_text: AstroBoomers:To The Moon!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ec6a6841cde9b4e4f8d9362dbf3be9de, type: 2}
-  m_sharedMaterial: {fileID: 2100000, guid: b24ec390e8749cf4387a41977288f469, type: 2}
+  m_sharedMaterial: {fileID: -6001197064409830115, guid: ec6a6841cde9b4e4f8d9362dbf3be9de,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -25343,12 +24584,6 @@ RectTransform:
   - {fileID: 749885489}
   - {fileID: 875806057}
   - {fileID: 2053222148}
-  - {fileID: 347822117}
-  - {fileID: 1275679618}
-  - {fileID: 39246243}
-  - {fileID: 1778632344}
-  - {fileID: 1131169666}
-  - {fileID: 443084126}
   - {fileID: 522470076}
   - {fileID: 256139800}
   - {fileID: 1333668142}
@@ -25362,8 +24597,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1785, y: -1229.8098}
-  m_SizeDelta: {x: 1190, y: 2459.6196}
+  m_AnchoredPosition: {x: 1899.8093, y: -0}
+  m_SizeDelta: {x: 1190, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1520156887
 MonoBehaviour:
@@ -25641,7 +24876,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 2459.62}
+  m_SizeDelta: {x: 0, y: 480}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1553094193
 MonoBehaviour:
@@ -26396,7 +25631,7 @@ MonoBehaviour:
   m_text: Play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -26529,11 +25764,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The betting phase displays a countdown showing the time remoining to place
-    a bet far the nextround and when it will begin.
+  m_text: "\xB7 The betting phase displays a countdown showing the time remoining
+    to place a bet far the nextround and when it will begin."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -26558,7 +25793,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -26597,7 +25832,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1624519069
@@ -28799,158 +28034,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   translationName: 365046
   FallbackText: LEFT OFF
---- !u!1 &1778632343
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1778632344}
-  - component: {fileID: 1778632346}
-  - component: {fileID: 1778632345}
-  - component: {fileID: 1778632347}
-  m_Layer: 5
-  m_Name: Text (TMP) (14)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1778632344
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1778632343}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1520156886}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -1211.5048}
-  m_SizeDelta: {x: 1190, y: 67.59}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1778632345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1778632343}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 0
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: "\xB7 A history of the last twenty multiplier values reached by the rocket
-    are shown in the top left ofthe screen."
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
-    type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4293517230
-  m_fontColor: {r: 0.68235296, g: 0.8745099, b: 0.91372555, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 30
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1778632346
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1778632343}
-  m_CullTransparentMesh: 1
---- !u!114 &1778632347
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1778632343}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 365058
-  FallbackText: "\xB7 A history of the last twenty multiplier values reached by the
-    rocket are shown in the top left ofthe screen."
 --- !u!1 &1805063365
 GameObject:
   m_ObjectHideFlags: 0
@@ -31593,11 +30676,11 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1520156886}
-  m_RootOrder: 23
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 595, y: -2152.525}
+  m_AnchoredPosition: {x: 578, y: -1720.5249}
   m_SizeDelta: {x: 1190, y: 67.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1955532769
@@ -31624,7 +30707,7 @@ MonoBehaviour:
     triggered and the win amountawarded"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -31649,7 +30732,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -32952,7 +32035,7 @@ MonoBehaviour:
     and return the win amount shown."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 064ffbf7c1cd8a3489a8168c23f333d8, type: 2}
-  m_sharedMaterial: {fileID: -5080100841567321797, guid: 7d18ec41f099df64aa472aa88360715b,
+  m_sharedMaterial: {fileID: 8706928373506601432, guid: 064ffbf7c1cd8a3489a8168c23f333d8,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -32977,7 +32060,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
+  m_fontSize: 27
   m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -33016,7 +32099,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &2053222150
