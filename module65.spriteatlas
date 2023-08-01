@@ -87,6 +87,7 @@ SpriteAtlas:
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 0baf5810aaf70cc4d87c8162c5701acd, type: 3}
+  - {fileID: 21300000, guid: dabe2320d3ee0324bbc5d9338c5db926, type: 3}
   - {fileID: 21300000, guid: 0b5a4d50f1169bb4c85397ce4b15d60b, type: 3}
   - {fileID: 21300000, guid: 23e143516de1bd44e808c5785b3bf3e8, type: 3}
   - {fileID: 21300000, guid: 46afcd611c33f914195481d18205476c, type: 3}
@@ -102,7 +103,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 1998e034ec2ad3345b76f229ffe3b197, type: 3}
   - {fileID: 21300000, guid: ce3d8b54e4ebe124fabf3a88e9da8bf1, type: 3}
   - {fileID: 21300000, guid: b3b85464648ef8a409077499ce85d346, type: 3}
-  - {fileID: 21300000, guid: 60c5c4644a81936438ba572bace5fbf8, type: 3}
   - {fileID: 21300000, guid: f3d1379476bb2a24f9d981985f2bac96, type: 3}
   - {fileID: 21300000, guid: b8d86d55f21f5d441a541dd83af94d25, type: 3}
   - {fileID: 21300000, guid: 2996c365e71a25f4288504fa59374dcc, type: 3}
@@ -132,6 +132,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: eb0fc5cf41b3fbc48a2cd6b3eb87eadd, type: 3}
   m_PackedSpriteNamesToIndex:
   - crash_2
+  - Gold
   - crash_20
   - crash_14
   - rulesbg
@@ -147,7 +148,6 @@ SpriteAtlas:
   - crash_3
   - crash_34
   - crash_29
-  - crash_9
   - crash_7
   - line
   - how
